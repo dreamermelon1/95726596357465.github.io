@@ -5,3 +5,18 @@ body {
   background-position: center;
   background-color: #111111;
 }
+@font-face {
+  font-family: Stjldbl1;
+  src: url(/fonts/SW/Stjldbl1.ttf);
+}
+@font-face {
+  font-family: Stjldbl2;
+  src: url(/fonts/SW/Stjldb2.ttf);
+}
+@font-face {
+  font-family: Strjmono;
+  src: url(/fonts/SW/Strjmono.ttf);
+}
+h1 {
+  font-family: Strjmono;
+}
