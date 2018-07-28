@@ -5,18 +5,7 @@ body {
   background-position: center;
   background-color: #111111;
 }
-@font-face {
-  font-family: Stjldbl1;
-  src: url(/fonts/SW/Stjldbl1.ttf);
-}
-@font-face {
-  font-family: Stjldbl2;
-  src: url(/fonts/SW/Stjldb2.ttf);
-}
-@font-face {
-  font-family: Strjmono;
-  src: url(/fonts/SW/Strjmono.ttf);
-}
+ @font-face {font-family:"STARWARS";src:url("/fonts/SW/STARWARS.eot?") format("eot"),url("/fonts/SW/STARWARS.woff") format("woff"),url("/fonts/SW/STARWARS.ttf") format("truetype"),url("/fonts/SW/STARWARS.svg#STARWARS") format("svg");font-weight:normal;font-style:normal;}
 h1 {
-  font-family: Strjmono;
+  font-family: STARWARS;
 }
