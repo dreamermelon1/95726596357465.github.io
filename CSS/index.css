@@ -5,9 +5,7 @@ body {
   background-position: center;
   background-color: black;
 }
- @font-face {font-family:"STARWARS";src:url("/fonts/SW/STARWARS.eot?") format("eot"),url("/fonts/SW/STARWARS.woff") format("woff"),url("/fonts/SW/STARWARS.ttf") format("truetype"),url("/fonts/SW/STARWARS.svg#STARWARS") format("svg");font-weight:normal;font-style:normal;}
-h1 {
-  font-family: STARWARS;
+h1 {  
+  font-family: 'Ruslan Display', cursive;
   color: white;
 }
- 
